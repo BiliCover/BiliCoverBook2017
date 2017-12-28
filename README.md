@@ -8,6 +8,3 @@
 1. [回主页](https://bilicover.gitbooks.io/bilicover/)
 2. [2015年](https://bilicover.gitbooks.io/bilicover2015/)
 3. [2016年](https://bilicover.gitbooks.io/bilicover2016/)
-
----
-### [反饋問題：https://wj.qq.com/s/1788539/993c](https://wj.qq.com/s/1788539/993c)
