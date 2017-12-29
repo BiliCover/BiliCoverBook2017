@@ -4,7 +4,7 @@
 #### 加载分页图片大约需要15秒，完整加载后才会显示，请耐心等候。
 ---
 ### 快捷跳转：
-1. [回主页](https://bilicover.gitbooks.io/bilicover/)
+1. [回主页](https://bilicover.gitbooks.io/main/)
 2. [2015年](https://bilicover.gitbooks.io/2015/)
 3. [2016年](https://bilicover.gitbooks.io/2016/)
-4. 2017年
+4. [2018年](https://bilicover.gitbooks.io/2018/)
