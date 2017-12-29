@@ -1,7 +1,5 @@
 # Summary
 * [简介](README.md)
-* [&larr; 2015年](https://bilicover.gitbooks.io/2015/)
-* [&larr; 2016年](https://bilicover.gitbooks.io/2016/)
 
 ## 2017年
 
@@ -125,4 +123,6 @@
 * [2017.12.28-BLS总选大会](20171228.md)
 
 ## 
-* [回主页](https://bilicover.gitbooks.io/main/)
+* [&larr; 2015年](https://bilicover.gitbooks.io/2015/)
+* [&larr; 2016年](https://bilicover.gitbooks.io/2016/)
+* [回主页](README.md)
