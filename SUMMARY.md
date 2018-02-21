@@ -156,7 +156,4 @@
 * [2017.12.31-国创2017-2018](20171231.md)
 
 ## 
-* [&larr; 2015年](https://bilicover.gitbooks.io/2015/content/)
-* [&larr; 2016年](https://bilicover.gitbooks.io/2016/content/)
-* [2018年 &rarr;](https://bilicover.gitbooks.io/2018/content/)
-* [回主页](README.md)
+* [回主页](https://bilicover.github.io/)
